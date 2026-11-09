@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gondyala Kalicharan.
-- 👀 I’m interested in Web development and programming(MERN Stack) and Machine Learning.
-- 🌱 I’m currently learning deep learning.
+- 👀 I’m interested in Web development and programming(MERN Stack),Machine Learning, Generative AI.
 - 📫 You can reach me through mail kalicharan8282@gmail.com.
 
 <!---
